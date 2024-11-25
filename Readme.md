@@ -1,3 +1,3 @@
-**Heterogeneity Information Quality Driven Interpretable Deep Learning for Misdiagnosed Lung Cancer Prediction based on PET/CT**
+**Heterogeneity Information Driven Interpretable Deep Learning for Non-invasive Misdiagnosed Lung Cancer Screening based on PET/CT**
 
 Code is comming soon.
